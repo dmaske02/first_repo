@@ -1,5 +1,3 @@
-This project is made by 
-dev
 The project is about providing booking gateway of tickets for flights,buses and trains at a single doorstep.
 
 1] index.html is our first page offering 3 ways of transportation with contact us information and company name. 
